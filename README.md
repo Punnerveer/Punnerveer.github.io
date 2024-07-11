@@ -5,7 +5,7 @@ Student's website
 > [OSPREYS!](https://www.allaboutbirds.org/guide/Osprey/overview)
 >>![OSPREYS!](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Osprey_mg_9605.jpg/340px-Osprey_mg_9605.jpg)
 
-###Want to learn about more? theres the information you are looking for:-
+###Want to learn about them more? theres the information you are looking for:-
 >>* Large birds of prey with a 6-foot wingspan.
 >>* Recognizable by white underparts, dark brown upperparts, and black eye stripe.
 >>* Primarily feed on fish, diving to catch prey.
