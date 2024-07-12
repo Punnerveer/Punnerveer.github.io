@@ -14,6 +14,7 @@ Student's website
 ##FELINES HAVE THEIR OWN PART IN WILDLIFE
 >Felines, also known as cats, are a diverse family of carnivorous mammals that includes domestic cats, lions, tigers, leopards, and cheetahs. They are known for their keen hunting skills, characterized by retractable claws, sharp teeth, and acute senses of sight and hearing. Felines exhibit a wide range of sizes, from the small domestic cat to the large Siberian tiger. Most felines are solitary hunters, with the exception of lions, which live in social groups called prides. They are found in various habitats around the world, including forests, savannas, mountains, and even urban areas. Felines are agile and stealthy, relying on their physical prowess and intelligence to catch prey.
 [Felines!](https://www.thefelinefoundation.com/) COME SAVE THEM...
+![Image](https://images.ctfassets.net/sfnkq8lmu5d7/3ZtcWmOZIQjEOmvCJ5nx0n/950aad478f9e3aa24740b4ff72e625b1/2023-12-04_Orange_cat_behavior_Hero.jpg?w=750&h=750&q=70&fm=webp)
 ###There's always huger for more when talking about wildlife.
 >>* Diverse family of carnivorous mammals.
 >>* Includes domestic cats, lions, tigers, leopards, and cheetahs.
