@@ -1,25 +1,26 @@
-# NATURES WONDERS PRESENTED HERE...
-Student's website
-## GET FASCINATED BY THESE BIRDS OF PREY!
->Ospreys, also known as fish hawks, are large birds of prey found near bodies of water worldwide, with a wingspan of up to 6 feet. They are easily recognizable by their distinctive white underparts, dark brown upperparts, and a prominent black eye stripe. Ospreys primarily feed on fish, which they catch by diving into the water from significant heights. Adaptations such as reversible outer toes and sharp talons make them highly effective hunters. These birds are known for their impressive migratory patterns, traveling thousands of miles between breeding and wintering grounds. Ospreys build large nests on tall structures, often reusing them for many years.
-> [OSPREYS!](https://www.allaboutbirds.org/guide/Osprey/overview) CHECK THEM OUT HERE!
->>![OSPREYS!](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Osprey_mg_9605.jpg/340px-Osprey_mg_9605.jpg)  
-### Want to learn about them more? theres the information you are looking for:-
->>* Large birds of prey with a 6-foot wingspan.
->>* Recognizable by white underparts, dark brown upperparts, and black eye stripe.
->>* Primarily feed on fish, diving to catch prey.
->>* Adaptations include reversible outer toes and sharp talons.
->>* Migrate thousands of miles between breeding and wintering grounds.
->>* Build large nests on tall structures, often reused annually.
-##FELINES HAVE THEIR OWN PART IN WILDLIFE
->Felines, also known as cats, are a diverse family of carnivorous mammals that includes domestic cats, lions, tigers, leopards, and cheetahs. They are known for their keen hunting skills, characterized by retractable claws, sharp teeth, and acute senses of sight and hearing. Felines exhibit a wide range of sizes, from the small domestic cat to the large Siberian tiger. Most felines are solitary hunters, with the exception of lions, which live in social groups called prides. They are found in various habitats around the world, including forests, savannas, mountains, and even urban areas. Felines are agile and stealthy, relying on their physical prowess and intelligence to catch prey.
-[Felines!](https://www.thefelinefoundation.com/) COME SAVE THEM...
-![Image](https://images.ctfassets.net/sfnkq8lmu5d7/3ZtcWmOZIQjEOmvCJ5nx0n/950aad478f9e3aa24740b4ff72e625b1/2023-12-04_Orange_cat_behavior_Hero.jpg?w=750&h=750&q=70&fm=webp)
-### There's always huger for more when talking about wildlife.
->>* Diverse family of carnivorous mammals.
->>* Includes domestic cats, lions, tigers, leopards, and cheetahs.
->>* Known for keen hunting skills: retractable claws, sharp teeth, acute senses.
->>* Wide range of sizes: from domestic cats to Siberian tigers.
->>* Mostly solitary hunters; lions live in prides.
->>* Found in various habitats: forests, savannas, mountains, urban areas.
->>* Agile and stealthy, relying on physical prowess and intelligence to hunt
+# **Hello Netizens, Punnerveer Singh here! I am going to address some appealing points I noticed in the induction program** 
+> ## - _**Guru Nanak Dev Enginering College, Ludhaina AND {Induction Programme}**_
+>> ### Report of Student Induction Programme 2024. 
+
+>>> | Date | Resource Person | Description |
+>>> | ---- | --------------- | ----------- |
+>>> | 11/07/2024 | Dr. Arvind Dhingra | Sir introduced us to all the clubs in the college and made the session lively with his motivating words |
+>>> | 11/07/2024 | Dr. Parminder Singh | Sir congratulated us on getting admitted to GNDEC and inspired us to stay focused in studies |
+>>> | 11/07/2024 | Dr.H.S. Rai | Sir gave us a wonderful time introduced us to different web-browsers like duck-duck go for codeing related searches allowed us to contact him at any time for our queries |
+>>> | 12/07/2024 | 2nd Year Seniors | Inroduction to Excel and ChatGPT in an interactive way |
+>>> | 12/07/2024 | Prof. Sanchit Mehra| Sir made us revise the concepts of Differentiation and its applications |
+>>> | 15/07/2024 | Dr. Randhir Singh | We learned to use Github and made our own website using Github |
+>>> | 15/07/2024 | Dr.Pyare Lal Garg | Sir told us to pass on our knowledge, be faerless, never backing down, opposites are necessary and manymore things |
+>>> | 15/07/2024 | Dr. Sony Goyal | Sir's speech was a powerful reminder that we have the strength to achieve our dreams and be successful in life |
+>>> | 15/07/2024 | Mr. Pancham Jai Singh Gill | We were taught about the body language and about automobile club |
+>>> |  16/07/2024 | Prof. Nisha Masson and Prof. Manjot Kaur | We played an engagimg General Knowledge quiz that enhanced our knowledge and did Group Discussion |
+>>> |17/07/2024 | Prof. Sanchit Mehra | Sir taught us the basic calculus in themost interesting way  |
+>>> |17/07/2024 | RK Sir | We learned different types of Human behaviours in Universal Human Values class |
+>>> |18/07/2024 | RK Sir | We learnd different types of Human behaviours in  Universal Human Values class |
+>>> |18/07/2024| Seniors | Interactive peer to peer session about introduction to Canva and its uses |
+>>> |18/07/2024| Dr.Harwinder Singh | Sir introduced us to NCC and its different wings. Sir also motivated us to join NCC |
+>>> |18/07/2024| Er.Jasvir Singh Grewal | We got to know about NSS and its functions in the society |
+>>> |19/07/2024|Er.Kanwardeep Kalra| Madam taught us about corporate society and its different view points |
+>>> |19/07/2024| Mr.Jaswinder Singh | Sir made our day with the most engaging session of science and made learning fun |
+>>> #### |19/07/2024| **CSE Departmental** | **Visit** | _We saw the computer setup and the instructor taught us about the linux OS_ |
+>>> ![certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/5073681/original/Punnerveer_Singh20240725-72-1ijtrky.jpg)
