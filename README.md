@@ -25,3 +25,4 @@
 >>> #### |19/07/2024| **CSE Departmental** | **Visit** | _We saw the computer setup and the instructor taught us about the linux OS_ |
 >>> ![certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/5073681/original/Punnerveer_Singh20240725-72-1ijtrky.jpg)
 >>> * _**My excel certificate**_
+>>> * git rm -r --cached .
