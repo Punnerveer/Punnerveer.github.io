@@ -1,5 +1,5 @@
 # **Hello Netizens, Punnerveer Singh here! I am going to address some appealing points I noticed in the induction program** 
-> ## - _**Guru Nanak Dev Enginering College, Ludhaina AND {Induction Programme}**_
+> ## _**Guru Nanak Dev Enginering College, Ludhaina AND {Induction Programme}**_
 >> ### Report of Student Induction Programme 2024. 
 
 >>> | Date | Resource Person | Description |
