@@ -1,0 +1,365 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* box 1 */
+
+.navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;  /* vertical centering */
+    padding-left: 15px;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 100px; /* important */
+}
+
+.logo {
+    background-image: url("./Images/amazon_logo.png");
+    height: 50px;
+    width: 100%;
+    background-size: contain;  /* better than cover for logos */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.border {
+    border: 1px solid transparent;
+    border-radius: 5%;
+}
+
+.border:hover {
+    border: 1px solid white;
+    transition: background-color .15s ease, border-color .15s ease;
+}
+
+/* Box 2 */
+
+.a1 {
+    color: #cccccc;
+    font-size: 0.82rem;
+}
+
+.a2 {
+    font-size: 1rem;
+}
+
+.add-icon {
+    display: flex;
+}
+
+/* box 3 */
+
+.nav-search {
+    display: flex;
+    justify-content: space-evenly;
+    width: 620px;
+    height: 40px;
+    background-color: transparent;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    overflow: hidden;
+}
+
+.search-select {
+    border-radius: 4px 0 0 4px;
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border: none;
+    outline: none;
+}
+
+.search-input {
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}
+
+.search-icon {
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color:#febd69;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.nav-search:focus-within {
+    border: 2px solid #febd69;
+    border-radius: 8px;
+}
+
+/* box 4 */
+
+span {
+    font-size: 0.7rem;
+}
+
+.nav-second {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* box 5 */
+
+.nav-cart {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px;
+}
+
+.nav-cart i {
+    font-size: 30px;
+}
+
+.nav-cart > p {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* box 6 */
+
+.panel {
+    height: 39px;
+    width: 100%;
+    background-color: #232f3e;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel-ops p {
+    display: inline;
+    margin-left: 10px;
+}
+
+.panel-ops {
+    width: 75%;
+    font-size: 0.85rem;
+}
+
+.panel-deals {
+    font-size: 0.90rem;
+    font-weight: 700;
+}
+
+.op {
+    padding: 10px;
+}
+
+.hero-section {
+    background-image: url(./Images/hero_image.jpg);
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero-msg {
+    background-color: #ffffff;
+    color: black;
+    height: 40px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    /* bottom: 25px; */
+    width: 80%;
+    margin-bottom: 25px;
+}
+
+.hero-msg a {
+    color: rgb(22, 114, 114);
+}
+
+.shop-section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
+/* Footer styles */
+.site-footer {
+    background-color: #232f3e;
+    color: white;
+    font-size: 0.85rem;
+}
+
+.site-footer .back-to-top {
+    text-align: center;
+    padding: 15px 0;
+    cursor: pointer;
+    background-color: #37475a;
+    margin-top: 20px;
+}
+
+.site-footer .back-to-top:hover {
+    background-color: #485769;
+}
+
+.site-footer .footer-links {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 30px 20px;
+}
+
+.site-footer .footer-column {
+    display: flex;
+    flex-direction: column;
+    min-width: 140px;
+    margin: 10px;
+}
+
+.site-footer .footer-column h4 {
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.site-footer .footer-column a {
+    color: #dddddd;
+    text-decoration: none;
+    margin: 4px 0;
+}
+
+.site-footer .footer-column a:hover {
+    text-decoration: underline;
+}
+
+.site-footer .footer-copyright {
+    text-align: center;
+    padding: 15px 0;
+    background-color: #131a22;
+}
+
+.box {
+    /* border: 2px solid black; */
+    height: 400px;
+    background-color: white;
+    width: 23%;
+    padding: 20px 0 15px;
+    margin-top: 25px;
+}
+
+.box-img {
+    height: 300px;
+    /* background-size: contain; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.box-content {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.box-content p {
+    color: #167272;
+}
+
+@media (max-width: 900px) {
+    /* make search shrink on smaller screens */
+    .nav-search { width: 45%; }
+    .panel-ops { font-size: 0.78rem; }
+
+    /* compact side panel with visible hamburger */
+    .navbar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        flex-direction: column;
+        align-items: center;
+        width: 60px;               /* collapsed width showing just icon */
+        height: 100%;
+        padding-top: 60px;
+        transition: width 0.3s ease;
+        background-color: #0f1111;
+        z-index: 1000;
+        overflow-y: auto;
+    }
+
+    /* hide other items until opened */
+    .navbar > *:not(.menu-icon) {
+        display: none;
+    }
+
+    .navbar.open {
+        width: 260px;
+        align-items: flex-start;
+        padding-left: 20px;      /* inner margin for content */
+        gap: 20px;               /* vertical spacing between items */
+    }
+
+    .navbar.open > *:not(.menu-icon) {
+        display: flex;
+        width: 100%;
+        justify-content: flex-start;
+        margin: 8px 0;           /* extra breathing room between rows */
+    }
+
+    /* make search component adapt when expanded */
+    .navbar.open .nav-search { width: 100%; }
+    .navbar.open .nav-search .search-input { width: 100%; }
+
+    .navbar .menu-icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 15px;
+        cursor: pointer;
+        color: white;
+    }
+}
+
+@media (max-width: 600px) {
+    /* mobile: let nav-search be flexible and reduce gaps */
+    .nav-search { width: 40%; }
+    .navbar { justify-content: space-between; padding-left: 8px; padding-right: 8px; }
+    .nav-logo { padding-left: 6px; padding-right: 6px; }
+    .panel-ops { display: none; } /* optionally hide those small items on tiny screens */
+
+    /* ensure side-menu behaviour stays consistent on phones */
+}
+
+/* Mobile dropdown menu */
+.mobile-menu {
+    display: none;
+    flex-direction: column;
+    background-color: #232f3e;
+    color: white;
+    padding: 15px;
+}
+
+.mobile-menu p {
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    cursor: pointer;
+}
+
+.mobile-menu p:hover {
+    background-color: #37475a;
+}
+
+/* Show mobile menu only on small screens */
+@media (max-width: 600px) {
+    .mobile-menu {
+        display: none;
+    }
+}
